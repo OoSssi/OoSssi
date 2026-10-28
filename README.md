@@ -1,4 +1,4 @@
-[![MasterHead](https://i.hizliresim.com/jjuieyzo.png)
+![MasterHead](https://i.hizliresim.com/jjuieyzo.png)
 <h1 align="center">Merhaba 👋, ben Osman Demir</h1>
 <h3 align="center">Merhaba, ben Osman. Mardinliyim ve Web Tasarımı ve Kodlama 1. sınıf öğrencisiyim. kendi aralarındaki ve sevdiğim mesleklerde kariyer yapma konusunda her zaman açıklarım var. Önceliğim para değil, sevme işini yaparak bilgi edinmek ve ilerlemektir.</h3>
 
